@@ -1,0 +1,10 @@
+Log:
+- Start Date - 02/02/2021
+- 02/02/2021 - 04/02/2021 - Gathered and started treating the data to be analysed.
+- 05/02/2021 - Worked on preparing df for clustering and corrected the longitude variable on 'getBarcelonaVenues' function.
+- 06/02/2021 - Created new Part for visualization and developed the Cluster part.
+- 07/02/2021 - Finished preparation and visualization of data (before clustering).
+- 08/02/2021 - Worked on the clustering part.
+- 09/02/2021 - Worked on the clustering part, organizing the dfs per label and on the map plotting part.
+- 10/02/2021 - Worked on the dataframes with the information to be plotted on map, on the colormap for the criminal complaints, and on the format of the map and it´s popups for the clusters representation. Re-worked the clustering and reduced to 3 clusters instead of 5, because some of the clusters were too similar to be put separately.
+- 11/02/2021 - Work finalization.
