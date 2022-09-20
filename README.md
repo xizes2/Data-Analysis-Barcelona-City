@@ -7,8 +7,8 @@ The main objective of this work is to provide the stakeholders with relevant inf
 ## Data
 I´ll use 3 data sources:
 The foursquare API
-Appartment rental prices per neighborhood - https://www.bcn.cat/estadistica/castella/dades/timm/ipreus/habllo/a2020/tbarris2.htm
-Criminality rates per borough - http://www.bcn.cat/estadistica/catala/dades/anuari/Anuari2020_AAFF.pdf
+Appartment rental prices per neighborhood: https://www.bcn.cat/estadistica/castella/dades/timm/ipreus/habllo/a2020/tbarris2.htm
+Criminality rates per borough: http://www.bcn.cat/estadistica/catala/dades/anuari/Anuari2020_AAFF.pdf
 
 ## Methodology
 I´ll create the main dataframe using the sources indicated above. I´ll gather the information, clean and treat it several libraries sucha as: requests, geopy, pandas, bs4. To further explore and analyse I´ll use seaborn and matplotlib libraries. And to plot the information on the map I´ll use folium library.
