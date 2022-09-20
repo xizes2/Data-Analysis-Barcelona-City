@@ -7,7 +7,7 @@ The main objective of this work is to provide the stakeholders with relevant inf
 ## Data
 I´ll use 3 data sources:
 The foursquare API
-Appartment rental prices per neighborhood - ttps://www.bcn.cat/estadistica/castella/dades/timm/ipreus/habllo/a2020/tbarris2.htm
+Appartment rental prices per neighborhood - https://www.bcn.cat/estadistica/castella/dades/timm/ipreus/habllo/a2020/tbarris2.htm
 Criminality rates per borough - http://www.bcn.cat/estadistica/catala/dades/anuari/Anuari2020_AAFF.pdf
 
 ## Methodology
